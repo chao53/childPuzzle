@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class poleScript : MonoBehaviour, IPointerClickHandler//IPointerDownHandler, IDragHandler, IPointerUpHandler
+{ 
     public GameObject EventSystem;
     public GameObject Monkey;
     public float critical = 0;
