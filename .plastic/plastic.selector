@@ -1,0 +1,4 @@
+repository "childPuzzle@ssl://wechat_os_qy0woso323tzw5qpkgvo-lf1s@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1924525314" 
+     
