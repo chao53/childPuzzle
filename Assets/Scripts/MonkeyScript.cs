@@ -16,7 +16,7 @@ public class MonkeyScript : MonoBehaviour
     private Animator monkeyAnimator;
     private Vector3 pos;
     private int flag = 1;
-    // Start is called before the first frame update
+    // Start is called before the first frame update  hhh
     void Start()
     {
         grape = GameObject.Find("grape");
